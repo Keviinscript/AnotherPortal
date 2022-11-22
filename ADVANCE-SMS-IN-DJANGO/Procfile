@@ -1,0 +1,1 @@
+web:gunicorn --pythonpath student_management_system student_management_system.wsgi
